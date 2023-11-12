@@ -54,6 +54,6 @@ pip install tensorflow
 
 ## Usage
 1. Clone this repository to your local machine or open in Google Colab
-   ```bash
-   git clone https://github.com/your-username/tensorflow-zero-to-mastery-2023.git
-    ```
+ ```bash
+ git clone https://github.com/dg7s/Deep_learning_tensorflow.git
+  ```
